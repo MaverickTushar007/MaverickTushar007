@@ -22,7 +22,7 @@ I’m **Tushar**, an undergraduate at **NITK Surathkal** interested in **quantit
 - Analyzing financial time-series data to understand volatility, drawdowns, and risk regimes  
 - Building and testing simple, rule-based trading strategies  
 - Learning how market behavior changes during stress periods
-- 
+  
 ### Tools I use
 - Python (NumPy, Pandas, Matplotlib)
 - Market data (NIFTY 50, crypto)
