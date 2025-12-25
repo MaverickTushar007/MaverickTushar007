@@ -15,32 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+## Hey there 👋
 
-# Hi 👋
+I'm **Tushar**, an undergraduate at **NITK Surathkal**.
 
-I’m **Tushar**, an undergraduate at **NITK Surathkal** interested in **quantitative finance and market risk**.
-
-I work with financial time-series data to understand **returns, volatility, drawdowns, and regime behavior**, focusing more on **risk dynamics** than return prediction.
-
----
-
-## What I do
-- Financial time-series analysis  
-- Volatility & drawdown analysis  
-- Rule-based strategy backtesting  
-- Empirical experiments on market data  
+I explore **quantitative finance and market risk**, working with financial time-series data to understand volatility, drawdowns, and regime behavior.  
+I like simple models, clean analysis, and asking why things break.
 
 ---
 
-## Tools
-- Python (NumPy, Pandas, Matplotlib)
-- Market data (NIFTY 50, crypto)
+### What I work on
+- Risk & volatility analysis  
+- Time-series behavior of markets  
+- Rule-based trading systems  
+- Empirical finance experiments  
 
 ---
 
-## Projects
-- **NIFTY 50 Risk Analysis** – returns, volatility regimes, drawdowns  
-- **Backtesting Engine** – strategy performance & failure analysis  
+### Tools
+Python · NumPy · Pandas · Matplotlib  
+Market data · Backtesting · Visualization  
+
+---
+
+### Projects
+- **NIFTY 50 Risk Analysis**  
+- **Systematic Backtesting Engine**
+
+---
+
+Currently learning by building, testing, and questioning models on real market data.
 
 ---
 
