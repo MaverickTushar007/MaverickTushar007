@@ -16,10 +16,24 @@ Here are some ideas to get you started:
 
 -->
 
-I’m **Tushar**, an undergraduate at **NITK Surathkal** with a growing interest in **quantitative finance and market risk**. I enjoy working with market data to understand how uncertainty, volatility, and drawdowns shape real-world outcomes.
+I’m **Tushar**, an undergraduate at **NITK Surathkal** interested in **quantitative finance and market risk**.
 
-Currently, I’m working on empirical analysis of financial time-series, focusing on volatility regimes, risk behavior during stress periods, and simple rule-based trading strategies. My goal is not to predict prices, but to understand when and why models and strategies fail.
+---
 
-I mainly use **Python** for analysis, working with libraries like NumPy, Pandas, and Matplotlib, along with real market data such as the NIFTY 50 and crypto assets. I follow a simple workflow: clean data, ask clear questions, test ideas, and interpret results carefully.
+### What I’m currently working on
+- Analyzing financial time-series data to understand volatility, drawdowns, and risk regimes  
+- Building and testing simple, rule-based trading strategies  
+- Learning how market behavior changes during stress periods  
 
-You can reach me via **LinkedIn** at https://linkedin.com/in/tusharbhatt or by email at **tusharbhatt.official.2004@gmail.com**.
+---
+
+### Tools I use
+- Python (NumPy, Pandas, Matplotlib)
+- Market data (NIFTY 50, crypto)
+- Git & basic backtesting workflows
+
+---
+
+### How to reach me
+- LinkedIn: https://linkedin.com/in/tusharbhatt  
+- Email: tusharbhatt.official.2004@gmail.com
