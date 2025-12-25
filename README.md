@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-## Hey there 👋
-
 I'm **Tushar**, an undergraduate at **NITK Surathkal**.
 
 I explore **quantitative finance and market risk**, working with financial time-series data to understand volatility, drawdowns, and regime behavior.  
