@@ -28,10 +28,10 @@ I’m **Tushar**, an undergraduate at **NITK Surathkal** interested in **quantit
 - Market data (NIFTY 50, crypto)
 - Git & basic backtesting workflows
 
-### 📫 How to reach me:
-- LinkedIn: https://linkedin.com/in/tusharbhatt  
-- Email: tusharbhatt.official.2004@gmail.com
-
 ### ⚡ Fun fact:
 - I like tea more than coffee
 - Enjoy spending time studying trading charts
+
+### 📫 How to reach me:
+- LinkedIn: https://linkedin.com/in/tusharbhatt  
+- Email: tusharbhatt.official.2004@gmail.com
