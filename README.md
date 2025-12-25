@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I’m **Tushar**, an undergraduate at **NITK Surathkal** interested in **quantitative finance and market risk**.
 
-### What I’m currently working on
+### 🔭 I’m currently working on
 - Analyzing financial time-series data to understand volatility, drawdowns, and risk regimes  
 - Building and testing simple, rule-based trading strategies  
 - Learning how market behavior changes during stress periods
@@ -28,6 +28,10 @@ I’m **Tushar**, an undergraduate at **NITK Surathkal** interested in **quantit
 - Market data (NIFTY 50, crypto)
 - Git & basic backtesting workflows
 
-### How to reach me
+### 📫 How to reach me:
 - LinkedIn: https://linkedin.com/in/tusharbhatt  
 - Email: tusharbhatt.official.2004@gmail.com
+
+### ⚡ Fun fact:
+- I like tea more than coffee
+- Enjoy spending time studying trading charts
